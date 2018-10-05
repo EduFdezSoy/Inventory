@@ -2,7 +2,7 @@
 
 ### 4/Octubre/2018
 
-   **Inicio de la App  
+   **Inicio de la App**   
        - Creacion de pantalla de inicio.  
        - Creacion de pantalla de login.  
 
