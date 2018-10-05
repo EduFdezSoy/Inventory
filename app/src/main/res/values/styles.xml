@@ -14,7 +14,9 @@
 
     </style>
 
-    <!-- El atributo padding y margin no se definen en estilos, ya que se
+    <!--
+
+    El atributo padding y margin no se definen en estilos, ya que se
     aplican despues de dibujar la interfaz.
 
     <style name="lly_login_edittext">
@@ -22,4 +24,11 @@
     </style>
 
     -->
+
+    <!--Estilo para crear un botón transparente. Aplicando herencia -->
+    <style name="Widget" parent="@android:style/Widget"/>
+    <style name="Widget.Button" parent="@android:style/Widget.Button"/>
+    <style name="Widget.Button.Transparent">
+
+    </style>
 </resources>
