@@ -27,8 +27,11 @@
 
     <!--Estilo para crear un botón transparente. Aplicando herencia -->
     <style name="Widget" parent="@android:style/Widget"/>
-    <style name="Widget.Button" parent="@android:style/Widget.Button"/>
+    <style name="Widget.Button" parent="@android:style/Widget.Button">
+        <item name="android:color">@android:color/white</item>
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
     <style name="Widget.Button.Transparent">
-
+        <item name="android:background">@null</item>
     </style>
 </resources>
