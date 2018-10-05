@@ -3,7 +3,7 @@
     <string name="tvUserName">User name or E-mail addres</string>
     <string name="tvPassword">Password</string>
     <string name="cbRemember">Remember me</string>
-    <string name="btSignUp">Sign up</string>
+    <string name="btSignUp"><u>Sign up</u></string>
     <string name="btSignIn">Sign in</string>
     <string name="btSignGoogle">Google</string>
     <string name="btSignFacebook">Login with Facebook</string>

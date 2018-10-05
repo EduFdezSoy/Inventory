@@ -14,4 +14,12 @@
 
     </style>
 
+    <!-- El atributo padding y margin no se definen en estilos, ya que se
+    aplican despues de dibujar la interfaz.
+
+    <style name="lly_login_edittext">
+        <item name="android:padding">@dimen/lly_login_edittext</item>
+    </style>
+
+    -->
 </resources>
