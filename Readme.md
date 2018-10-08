@@ -20,3 +20,9 @@
    **Refactorizaciones**  
 &nbsp;&nbsp; - Refactorizado el Thread.Sleep y el Runnable (Se obvia uno) gracias al método postDelayed() de [Handler](https://developer.android.com/reference/android/os/Handler).  
 &nbsp;&nbsp; - Quitado los paddings de styles.xml pues mueve los items después de crearlos.  
+
+### 8/OCtubre/2018
+   **Modificacion de estilos de la App** 
+&nbsp;&nbsp; - Añadido el nuevo icono, y estilos de los botones, se usa la siguiente [Herramienta](http://romannurik.github.io/AndroidAssetStudio/index.html).  
+
+ 

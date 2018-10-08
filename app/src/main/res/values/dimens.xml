@@ -3,4 +3,6 @@
     <dimen name="lly_login_padding">32dp</dimen>
     <dimen name="stroke_width">2dp</dimen>
     <dimen name="lly_login_edittext">8dp</dimen>
+    <dimen name="lly_login_btSignIn">100dp</dimen>
+    <dimen name="lly_buttonMargin">15dp</dimen>
 </resources>
