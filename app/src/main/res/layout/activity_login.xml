@@ -63,26 +63,30 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/btSignUp"
-            android:background="@android:color/transparent"
-            android:textColor="@android:color/white"
+            style="@style/Widget.Button.Transparent"
             />
     </LinearLayout>
 
     <Button
         android:id="@+id/btSignIn"
-        android:layout_width="match_parent"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="@string/btSignIn" />
+        android:text="@string/btSignIn"
+        android:background="@color/bck_facebook"
+        android:layout_gravity="center"
+        />
 
     <Button
         android:id="@+id/btSignGoogle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btSignGoogle" />
+        android:text="@string/btSignGoogle"
+        android:background="@color/bck_google"/>
 
     <Button
         android:id="@+id/btSignFacebook"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btSignFacebook" />
+        android:text="@string/btSignFacebook"
+        android:background="@color/bck_facebook"/>
 </LinearLayout>

@@ -3,9 +3,6 @@
     <color name="colorPrimary">#0288d1</color>
     <color name="colorPrimaryDark">#005b9f</color>
     <color name="colorAccent">#0288d1</color>
+    <color name="bck_facebook">#3b5998</color>
+    <color name="bck_google">#e25f43</color>
 </resources>
-<!--
-    <color name="colorPrimary">#90caf9</color>
-    <color name="colorPrimaryDark">#5d99c6</color>
-    <color name="colorAccent">#42a5f5</color>
--->
