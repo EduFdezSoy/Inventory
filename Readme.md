@@ -27,4 +27,10 @@
   
  ### 9/OCtubre/2018 (CASA)  
    **Modificacion de estilos de la App** 
-&nbsp;&nbsp; - Añadido el estilo para el checkbox de Activity_login.xml.
+&nbsp;&nbsp; - Añadido el estilo para el checkbox de Activity_login.xml.  
+
+
+ ### 10/OCtubre/2018  
+   **Creacion de nueva Activity (activity_login_relativelayoud.xml)**  
+&nbsp;&nbsp; - Creacion del Activity.  
+&nbsp;&nbsp; - Se añaden los componentes.  
