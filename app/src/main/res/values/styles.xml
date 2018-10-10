@@ -34,4 +34,10 @@
     <style name="Widget.Button.Transparent">
         <item name="android:background">@null</item>
     </style>
+
+    <style name="LoginCheckBox" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="colorControlActivated">@android:color/darker_gray</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
 </resources>

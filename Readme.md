@@ -22,7 +22,9 @@
 &nbsp;&nbsp; - Quitado los paddings de styles.xml pues mueve los items después de crearlos.  
 
 ### 8/OCtubre/2018
+   **Modificacion de estilos de la App**  
+&nbsp;&nbsp; - Añadido el nuevo icono, y estilos de los botones, se usa la siguiente [Herramienta](http://romannurik.github.io/AndroidAssetStudio/index.html).    
+  
+ ### 9/OCtubre/2018 (CASA)
    **Modificacion de estilos de la App** 
-&nbsp;&nbsp; - Añadido el nuevo icono, y estilos de los botones, se usa la siguiente [Herramienta](http://romannurik.github.io/AndroidAssetStudio/index.html).  
-
- 
+&nbsp;&nbsp; - Añadido el estilo para el checkbox de Activity_login.xml.
