@@ -34,3 +34,20 @@
    **Creacion de nueva Activity (activity_login_relativelayoud.xml)**  
 &nbsp;&nbsp; - Creacion del Activity.  
 &nbsp;&nbsp; - Se añaden los componentes.  
+
+ ### 11/OCtubre/2018  
+   **Creacion de nueva Activity (activity_dash_board.xml)**  
+&nbsp;&nbsp; - Creacion del Activity.  
+&nbsp;&nbsp; - Se añaden los componentes.   
+
+ ### 15/OCtubre/2018  
+   **Creacion de otro tipo de Activity (Con android.support.v7.widget.GridLayout)**  
+&nbsp;&nbsp; - Muestra de otra forma de hacer el dashboard con [support.GridLayout](https://developer.android.com/reference/android/support/v7/widget/GridLayout). Ejemplo de uso[aquí](https://github.com/JDamianCabello/SupportGridLayout.git).  
+&nbsp;&nbsp; - Creación de DependencyEditActivity.  
+
+TODO LIST:  
+-Acabar dashboard.  
+-Dar nombre en strings a todos los componentes de DependencyEditActivity.
+-Poner un padding de 5dp a los tables rows (ponerla en dimens).  
+  
+  
