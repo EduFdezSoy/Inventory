@@ -45,9 +45,9 @@
 &nbsp;&nbsp; - Muestra de otra forma de hacer el dashboard con [support.GridLayout](https://developer.android.com/reference/android/support/v7/widget/GridLayout). Ejemplo de uso[aquí](https://github.com/JDamianCabello/SupportGridLayout.git).  
 &nbsp;&nbsp; - Creación de DependencyEditActivity.  
 
-TODO LIST:  
+#### TODO LIST:  
 -Acabar dashboard.  
--Dar nombre en strings a todos los componentes de DependencyEditActivity.
+-Dar nombre en strings a todos los componentes de DependencyEditActivity.  
 -Poner un padding de 5dp a los tables rows (ponerla en dimens).  
   
   
